@@ -1,0 +1,13 @@
+= Grundlagen
+<cha:Grundlagen>
+Zielgerichtete theoretische Grundlagen, sowohl fachliche, wie auch
+methodische.
+
+Zu den Grundlagen gehören z.~B. auch Details zur Problemstellung, der
+Stand der Technik und weitere Grundlagen, welche zur
+Konzeptausarbeitung, Umsetzung und Verifikation erforderlich sind.
+
+Grundlagen haben immer einen Bezug zu den nachfolgenden Kapiteln. Diesen
+Bezug sollte man gelegentlich explizit herstellen, damit bereits in
+diesem Kapitel klar ist, wo und für was die Grundlagen gebraucht und
+angewandt werden.
